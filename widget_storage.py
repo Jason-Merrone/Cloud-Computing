@@ -2,6 +2,7 @@ import boto3
 import logging
 import json
 import botocore
+import datetime
 
 class Storage:
     def __init__(self, strategy, resource_name):
@@ -39,11 +40,27 @@ class Storage:
         except Exception as e:
             self.logger.error(f"Failed to store widget {widget['widgetId']} in S3: {e}")
 
-
     def store_in_dynamodb(self, widget):
+        # Ensure 'id' is mapped as the primary key
+        dynamo_item = {
+            'id': widget['widgetId'],  # Primary key
+            'owner': widget['owner'],
+            'label': widget.get('label', None),
+            'description': widget.get('description', None),
+            # Generate a default timestamp if 'last_modified_on' is not provided
+            'last_modified_on': widget.get('last_modified_on', datetime.datetime.utcnow().isoformat())
+        }
+
+        # Add all additional attributes from 'otherAttributes'
+        if 'otherAttributes' in widget:
+            for attr in widget['otherAttributes']:
+                name = attr['name']
+                value = attr['value']
+                dynamo_item[name] = value
+
         try:
             table = self.dynamodb.Table(self.resource_name)
-            table.put_item(Item=widget)
-            self.logger.info(f'Widget stored in DynamoDB table: {self.resource_name}')
+            table.put_item(Item=dynamo_item)
+            self.logger.info(f"Widget stored in DynamoDB table: {self.resource_name}")
         except botocore.exceptions.ClientError as e:
-            self.logger.error(f'Error storing widget in DynamoDB: {e}')
+            self.logger.error(f"Error storing widget in DynamoDB: {e}")
