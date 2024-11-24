@@ -1,19 +1,18 @@
 import time
 import logging
-import argparse
 from s3_client import S3Client
 from request_processor import process_request
+from widget_storage import Storage
 from logger import setup_logging
+from argparse import ArgumentParser
 
 def parse_arguments():
-    parser = argparse.ArgumentParser(description='AWS Consumer Program')
-    parser.add_argument('--storage', choices=['s3', 'dynamodb'], required=True,
-                        help='Storage strategy (s3 or dynamodb)')
-    parser.add_argument('--resource', required=True,
-                        help='Resource identifier (bucket name or table name)')
-    parser.add_argument('--request-bucket', required=True,
-                        help='Bucket containing widget requests (Bucket 2)')
+    parser = ArgumentParser(description='AWS Consumer Program')
+    parser.add_argument('--storage', choices=['s3', 'dynamodb'], required=True, help='Storage strategy')
+    parser.add_argument('--resource', required=True, help='Resource identifier (bucket or table name)')
+    parser.add_argument('--request-bucket', required=True, help='Bucket containing widget requests')
     return parser.parse_args()
+
 
 def main():
     setup_logging()

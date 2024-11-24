@@ -10,6 +10,7 @@ class Storage:
         self.resource_name = resource_name
         if self.strategy == 's3':
             self.s3 = boto3.client('s3')
+            self.bucket_name = resource_name
         elif self.strategy == 'dynamodb':
             self.dynamodb = boto3.resource('dynamodb')
         else:
@@ -25,13 +26,19 @@ class Storage:
 
     def store_in_s3(self, widget):
         owner = widget['owner'].replace(' ', '-').lower()
-        key = f"widgets/{owner}/{widget['widgetId']}"
+        key = f"widgets/{owner}/{widget['widgetId']}.json"
         data = json.dumps(widget)
         try:
-            self.s3.put_object(Bucket=self.resource_name, Key=key, Body=data)
-            self.logger.info(f'Widget stored in S3 with key: {key}')
-        except botocore.exceptions.ClientError as e:
-            self.logger.error(f'Error storing widget in S3: {e}')
+            self.s3.put_object(
+                Bucket=self.bucket_name,
+                Key=key,
+                Body=data,
+                ContentType='application/json'
+            )
+            self.logger.info(f"Successfully stored widget {widget['widgetId']} in S3 at key {key}")
+        except Exception as e:
+            self.logger.error(f"Failed to store widget {widget['widgetId']} in S3: {e}")
+
 
     def store_in_dynamodb(self, widget):
         try:
