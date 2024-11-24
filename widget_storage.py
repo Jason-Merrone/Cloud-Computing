@@ -41,17 +41,14 @@ class Storage:
             self.logger.error(f"Failed to store widget {widget['widgetId']} in S3: {e}")
 
     def store_in_dynamodb(self, widget):
-        # Ensure 'id' is mapped as the primary key
         dynamo_item = {
             'id': widget['widgetId'],  # Primary key
             'owner': widget['owner'],
             'label': widget.get('label', None),
             'description': widget.get('description', None),
-            # Generate a default timestamp if 'last_modified_on' is not provided
             'last_modified_on': widget.get('last_modified_on', datetime.datetime.utcnow().isoformat())
         }
 
-        # Add all additional attributes from 'otherAttributes'
         if 'otherAttributes' in widget:
             for attr in widget['otherAttributes']:
                 name = attr['name']
@@ -64,3 +61,26 @@ class Storage:
             self.logger.info(f"Widget stored in DynamoDB table: {self.resource_name}")
         except botocore.exceptions.ClientError as e:
             self.logger.error(f"Error storing widget in DynamoDB: {e}")
+
+    def delete_widget(self, widget_id):
+        if self.strategy == 's3':
+            key = f"widgets/{widget_id}.json"
+            try:
+                self.s3.delete_object(Bucket=self.bucket_name, Key=key)
+                self.logger.info(f'Successfully deleted widget {widget_id} from S3.')
+            except botocore.exceptions.ClientError as e:
+                self.logger.error(f'Error deleting widget from S3: {e}')
+        elif self.strategy == 'dynamodb':
+            try:
+                table = self.dynamodb.Table(self.resource_name)
+                table.delete_item(Key={'id': widget_id})
+                self.logger.info(f'Successfully deleted widget {widget_id} from DynamoDB.')
+            except botocore.exceptions.ClientError as e:
+                self.logger.error(f'Error deleting widget from DynamoDB: {e}')
+
+    def update_widget(self, widget):
+        self.store_widget(widget)  # Overwrite existing widget
+
+        # Updating in DynamoDB
+        if self.strategy == 'dynamodb':
+            self.store_in_dynamodb(widget)

@@ -7,19 +7,29 @@ def process_request(data, storage_strategy, resource_name):
     try:
         request = json.loads(data)
         request_type = request.get('type')
+
+        storage = Storage(storage_strategy, resource_name)
+
         if request_type == 'create':
             widget = create_widget(request)
-            storage = Storage(storage_strategy, resource_name)
             storage.store_widget(widget)
             logger.info(f'Widget {widget["widgetId"]} created successfully.')
         elif request_type == 'delete':
-            logger.warning('Delete request received, but delete functionality is not implemented yet.')
+            widget_id = request.get('widgetId')
+            if widget_id:
+                storage.delete_widget(widget_id)
+                logger.info(f'Widget {widget_id} deleted successfully.')
+            else:
+                logger.error('Delete request missing widgetId.')
         elif request_type == 'update':
-            logger.warning('Update request received, but update functionality is not implemented yet.')
+            widget = create_widget(request)
+            storage.update_widget(widget)
+            logger.info(f'Widget {widget["widgetId"]} updated successfully.')
         else:
             logger.error(f'Unknown request type: {request_type}')
     except json.JSONDecodeError as e:
         logger.error(f'Invalid JSON data: {e}')
+
 
 def create_widget(request):
     widget = {

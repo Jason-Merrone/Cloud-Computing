@@ -8,6 +8,7 @@ class SQSClient:
         self.logger = logging.getLogger(__name__)
         self.sqs = boto3.client('sqs')
         self.queue_url = self.get_queue_url(queue_name)
+        self.cached_messages = []  # Cache for received messages
 
     def get_queue_url(self, queue_name):
         try:
@@ -18,22 +19,23 @@ class SQSClient:
             raise
 
     def get_next_request(self):
+        if self.cached_messages:
+            message = self.cached_messages.pop(0)
+            return message['MessageId'], message['ReceiptHandle'], message['Body']
+
         try:
             response = self.sqs.receive_message(
                 QueueUrl=self.queue_url,
-                MaxNumberOfMessages=1,
+                MaxNumberOfMessages=10,
                 WaitTimeSeconds=2
             )
             if 'Messages' in response:
-                message = response['Messages'][0]
-                receipt_handle = message['ReceiptHandle']
-                body = message['Body']
-                self.delete_message(receipt_handle)
-                return message['MessageId'], body
-            return None, None
+                self.cached_messages = response['Messages']  # Cache messages
+                return self.get_next_request()  # Return the first message
+            return None, None, None
         except botocore.exceptions.ClientError as e:
             self.logger.error(f'Error receiving message from SQS: {e}')
-            return None, None
+            return None, None, None
 
     def delete_message(self, receipt_handle):
         try:
