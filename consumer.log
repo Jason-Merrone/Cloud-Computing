@@ -1,0 +1,720 @@
+{"asctime": "2024-11-23 19:59:35,802", "name": "__main__", "levelname": "INFO", "message": "Starting AWS Consumer Program", "taskName": null}
+{"asctime": "2024-11-23 19:59:35,812", "name": "botocore.credentials", "levelname": "INFO", "message": "Found credentials in shared credentials file: ~/.aws/credentials", "taskName": null}
+{"asctime": "2024-11-23 19:59:38,080", "name": "__main__", "levelname": "INFO", "message": "Starting AWS Consumer Program", "taskName": null}
+{"asctime": "2024-11-23 19:59:38,091", "name": "botocore.credentials", "levelname": "INFO", "message": "Found credentials in shared credentials file: ~/.aws/credentials", "taskName": null}
+{"asctime": "2024-11-23 19:59:45,378", "name": "__main__", "levelname": "INFO", "message": "Starting AWS Consumer Program", "taskName": null}
+{"asctime": "2024-11-23 19:59:45,391", "name": "botocore.credentials", "levelname": "INFO", "message": "Found credentials in shared credentials file: ~/.aws/credentials", "taskName": null}
+{"asctime": "2024-11-23 20:01:29,852", "name": "__main__", "levelname": "INFO", "message": "Starting AWS Consumer Program", "taskName": null}
+{"asctime": "2024-11-23 20:01:29,863", "name": "botocore.credentials", "levelname": "INFO", "message": "Found credentials in shared credentials file: ~/.aws/credentials", "taskName": null}
+{"asctime": "2024-11-23 20:01:30,346", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: aaf53172-be78-4fdf-8b2a-72761b2ddabd", "taskName": null}
+{"asctime": "2024-11-23 20:01:30,730", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:30,731", "name": "request_processor", "levelname": "INFO", "message": "Widget 90008fe6-afe7-4e9d-a64f-ad5d46f8c3b1 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:30,811", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:30,812", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 1faf6aa8-7218-4206-b1c8-aa2f3b89c920", "taskName": null}
+{"asctime": "2024-11-23 20:01:31,133", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:31,133", "name": "request_processor", "levelname": "INFO", "message": "Widget 84d4feed-2e75-4994-972c-f5725b447820 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:31,208", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:31,208", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: d90fefe4-76f6-44c0-a6d7-3b495eaf3a64", "taskName": null}
+{"asctime": "2024-11-23 20:01:31,520", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:31,520", "name": "request_processor", "levelname": "INFO", "message": "Widget 9fd773b3-cd4e-4d3b-b9c1-ebac6bf48150 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:31,589", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:31,589", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: c63168f9-2e86-41c0-b9e5-cdaa4df0a64d", "taskName": null}
+{"asctime": "2024-11-23 20:01:31,820", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:31,820", "name": "request_processor", "levelname": "INFO", "message": "Widget 3600e8cf-670d-4461-9cd0-8dc03d8aa66a created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:31,891", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:31,892", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 0356ce0a-d86b-4ccf-b5a1-ee8d12c4f562", "taskName": null}
+{"asctime": "2024-11-23 20:01:32,197", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:32,198", "name": "request_processor", "levelname": "INFO", "message": "Widget 4e260d28-939d-4cc4-bed1-d057623edae9 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:32,272", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:32,273", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: d20f0c86-5bca-4de3-b399-307059c29f1c", "taskName": null}
+{"asctime": "2024-11-23 20:01:32,578", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:32,579", "name": "request_processor", "levelname": "INFO", "message": "Widget b1698a77-bcb3-49a7-90a4-a4b257a6d1c6 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:32,654", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:32,655", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 236d6655-565c-4213-8e42-d73e7ad81dd6", "taskName": null}
+{"asctime": "2024-11-23 20:01:33,008", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:33,009", "name": "request_processor", "levelname": "INFO", "message": "Widget 907a9b1e-d0d2-41ce-b497-8ed802ce2c6a created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:33,118", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:33,118", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: eaac3fd7-4bb6-4413-9cf9-e8c84eaab79f", "taskName": null}
+{"asctime": "2024-11-23 20:01:33,422", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:33,422", "name": "request_processor", "levelname": "INFO", "message": "Widget 8d89a69d-f676-4586-aac0-91e480fd8f86 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:33,499", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:33,500", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 051addf7-d1dd-4c7d-bbf2-66cad9fb46de", "taskName": null}
+{"asctime": "2024-11-23 20:01:33,802", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:33,802", "name": "request_processor", "levelname": "INFO", "message": "Widget e6fddcd4-c089-483c-a2f8-bf88e78567a4 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:33,878", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:33,879", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 1ca73ecf-aa5d-4929-abae-525929b523b7", "taskName": null}
+{"asctime": "2024-11-23 20:01:34,193", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:34,194", "name": "request_processor", "levelname": "INFO", "message": "Widget 66965385-f6e4-4468-848b-4805bd34a749 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:34,273", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:34,349", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 84c14cd9-3439-4240-ad9a-40823ad8d7d4", "taskName": null}
+{"asctime": "2024-11-23 20:01:34,641", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:34,641", "name": "request_processor", "levelname": "INFO", "message": "Widget 8294a56e-ee19-4b39-9636-aecf564612ce created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:34,711", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:34,712", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: c2b17666-8219-4877-8d59-f9b73ed5f445", "taskName": null}
+{"asctime": "2024-11-23 20:01:35,015", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:35,015", "name": "request_processor", "levelname": "INFO", "message": "Widget 60e538f8-568d-4e5c-b4c3-80a191a67452 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:35,090", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:35,091", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 9eacef11-935f-4e87-bc22-d0ff4fd8d26c", "taskName": null}
+{"asctime": "2024-11-23 20:01:35,380", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:35,380", "name": "request_processor", "levelname": "INFO", "message": "Widget a12dee34-8582-4d13-b083-518dc19167ca created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:35,451", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:35,452", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 4fc53dde-073c-4f76-9b34-4c669d98d6a8", "taskName": null}
+{"asctime": "2024-11-23 20:01:35,796", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:35,797", "name": "request_processor", "levelname": "INFO", "message": "Widget 092773e9-a513-457d-97a9-d270b91525f2 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:35,871", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:35,871", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: c9fdecec-aee1-4515-8a4c-34525b5ef927", "taskName": null}
+{"asctime": "2024-11-23 20:01:36,180", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:36,181", "name": "request_processor", "levelname": "INFO", "message": "Widget 460dd29b-b6a0-4ec2-8a59-fda47f6bbf17 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:36,255", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:36,256", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: f0451db9-7617-43b2-8230-cb3b49cbe910", "taskName": null}
+{"asctime": "2024-11-23 20:01:36,570", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:36,647", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:36,648", "name": "request_processor", "levelname": "INFO", "message": "Widget 60e538f8-568d-4e5c-b4c3-80a191a67452 updated successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:36,723", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:36,724", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 15dcb1fe-b459-4993-b90e-03609bc28a25", "taskName": null}
+{"asctime": "2024-11-23 20:01:37,029", "name": "widget_storage", "levelname": "INFO", "message": "Successfully deleted widget 85a120ce-6ab0-40f1-912e-10b9c5a7958e from DynamoDB.", "taskName": null}
+{"asctime": "2024-11-23 20:01:37,030", "name": "request_processor", "levelname": "INFO", "message": "Widget 85a120ce-6ab0-40f1-912e-10b9c5a7958e deleted successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:37,098", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:37,098", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: fc10c209-445c-4f59-84f8-b3a36d35c6c7", "taskName": null}
+{"asctime": "2024-11-23 20:01:37,389", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:37,389", "name": "request_processor", "levelname": "INFO", "message": "Widget 01bc46a3-b658-4ad4-bd50-e2a53d685f41 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:37,458", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:37,458", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 1c718c45-48a5-4f0c-ae68-c6ff40013721", "taskName": null}
+{"asctime": "2024-11-23 20:01:37,759", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:37,760", "name": "request_processor", "levelname": "INFO", "message": "Widget 6fb86b9f-676f-46f7-a97d-dbf1df6aeac0 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:37,833", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:37,834", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 65a60e98-30df-48fa-82ff-b6d9d634ee98", "taskName": null}
+{"asctime": "2024-11-23 20:01:38,150", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:38,228", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:38,228", "name": "request_processor", "levelname": "INFO", "message": "Widget 76e9b439-e97e-4f6e-8a94-13eb68fb9494 updated successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:38,302", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:38,407", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: e4400b3b-f58d-40e0-b36a-ce027ad6ae9a", "taskName": null}
+{"asctime": "2024-11-23 20:01:38,730", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:38,731", "name": "request_processor", "levelname": "INFO", "message": "Widget b57e6d7b-9c8b-4f91-9220-eef8d1a06ead created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:38,805", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:38,805", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 3a8f5121-8609-4a3f-82bb-af09db8ac49f", "taskName": null}
+{"asctime": "2024-11-23 20:01:39,120", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:39,121", "name": "request_processor", "levelname": "INFO", "message": "Widget c6db0031-9f9a-4f5a-8159-aece0c5d8f76 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:39,190", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:39,191", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 4c3f49a5-f22e-425d-a995-5f135ed6d038", "taskName": null}
+{"asctime": "2024-11-23 20:01:39,762", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:39,762", "name": "request_processor", "levelname": "INFO", "message": "Widget 66cd26aa-06a1-4649-956d-37af01f4a5c6 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:39,834", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:39,834", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 42fa118b-f95d-4805-9586-bf5ad381efa4", "taskName": null}
+{"asctime": "2024-11-23 20:01:40,152", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:40,152", "name": "request_processor", "levelname": "INFO", "message": "Widget 8b744451-02d6-4e08-aa1f-da2be39ff11b created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:40,228", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:40,228", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: c09c624e-9436-409e-838f-f203129cabcd", "taskName": null}
+{"asctime": "2024-11-23 20:01:40,528", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:40,529", "name": "request_processor", "levelname": "INFO", "message": "Widget 5567e4f9-1e7e-43d3-94d2-f81f227b5372 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:40,603", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:40,604", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: fdf0f7bd-34a4-46fc-9093-47c4eaacbb53", "taskName": null}
+{"asctime": "2024-11-23 20:01:40,987", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:40,988", "name": "request_processor", "levelname": "INFO", "message": "Widget 7a7420a6-5435-4131-afe1-95d651b049f7 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:41,063", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:41,064", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 08000c1e-2e51-4576-bf08-ffa27607cb74", "taskName": null}
+{"asctime": "2024-11-23 20:01:41,365", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:41,366", "name": "request_processor", "levelname": "INFO", "message": "Widget d5e8be69-df6b-4794-b6f5-b8426cb66c97 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:41,440", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:41,512", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: dc0af4b2-8063-4ded-afcc-bd240194f42e", "taskName": null}
+{"asctime": "2024-11-23 20:01:41,800", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:41,801", "name": "request_processor", "levelname": "INFO", "message": "Widget 96e50b12-4ea3-498e-b0cd-cf65cf731a1e created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:41,875", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:41,876", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 78d8f7bd-9ec7-4bec-8c35-2ae07a82e536", "taskName": null}
+{"asctime": "2024-11-23 20:01:42,132", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:42,132", "name": "request_processor", "levelname": "INFO", "message": "Widget e6253639-903d-4258-939a-ca67ed6383dd created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:42,208", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:42,208", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 191df1f1-9e80-4300-9797-d7db7b31eec1", "taskName": null}
+{"asctime": "2024-11-23 20:01:42,471", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:42,472", "name": "request_processor", "levelname": "INFO", "message": "Widget c8efaf6f-4b95-4b82-84c9-3df085c711e9 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:42,541", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:42,541", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: d74a21a5-eb8e-4610-b8ab-6087cba9f613", "taskName": null}
+{"asctime": "2024-11-23 20:01:42,819", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:42,820", "name": "request_processor", "levelname": "INFO", "message": "Widget 0859e908-4cb7-4cb9-9e51-e6141b5c9faa created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:42,894", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:42,894", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 300d3d9b-3d34-4f31-9cb3-5fba1a3c6ff6", "taskName": null}
+{"asctime": "2024-11-23 20:01:43,173", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:43,174", "name": "request_processor", "levelname": "INFO", "message": "Widget 64123930-6e2b-4518-a37a-b2bee40754ed created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:43,248", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:43,249", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 40ee93d3-f7e9-41a4-a905-2f6e7a123bc7", "taskName": null}
+{"asctime": "2024-11-23 20:01:43,557", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:43,557", "name": "request_processor", "levelname": "INFO", "message": "Widget fcd9e7c2-e083-4d23-837d-f1bf026dd5d3 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:43,627", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:43,627", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 2b7e5d4b-051b-4533-a208-7faa26141ac8", "taskName": null}
+{"asctime": "2024-11-23 20:01:43,892", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:43,892", "name": "request_processor", "levelname": "INFO", "message": "Widget 98ea1876-1d52-4b54-94d1-0733ccf203ec created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:43,962", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:43,962", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: c81bf2bf-883e-4f1b-9800-c9aa1a41d23d", "taskName": null}
+{"asctime": "2024-11-23 20:01:44,261", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:44,261", "name": "request_processor", "levelname": "INFO", "message": "Widget 71410e89-b0ad-4898-86be-3a7835b3e402 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:44,331", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:44,332", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 9354685b-6d68-44db-b4f0-3d2ba8cedec5", "taskName": null}
+{"asctime": "2024-11-23 20:01:44,588", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:44,588", "name": "request_processor", "levelname": "INFO", "message": "Widget 92e7ee86-2e70-4f84-a9af-056ed85272cb created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:44,656", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:44,657", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 984aec24-819e-414d-ad14-fff128ae04fd", "taskName": null}
+{"asctime": "2024-11-23 20:01:44,961", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:45,034", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:45,034", "name": "request_processor", "levelname": "INFO", "message": "Widget b1698a77-bcb3-49a7-90a4-a4b257a6d1c6 updated successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:45,110", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:45,213", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 90ac1980-cbb4-48b4-be16-e99504e7cfc9", "taskName": null}
+{"asctime": "2024-11-23 20:01:45,480", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:45,481", "name": "request_processor", "levelname": "INFO", "message": "Widget 8ead1b8a-7c30-4170-9f77-a1c29b3dcba4 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:45,551", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:45,651", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 5c0fa134-21a7-428f-8b4b-cca2556bc224", "taskName": null}
+{"asctime": "2024-11-23 20:01:45,922", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:45,923", "name": "request_processor", "levelname": "INFO", "message": "Widget 85a120ce-6ab0-40f1-912e-10b9c5a7958e created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:45,995", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:45,996", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 3c4e2645-bb81-4096-a9d1-9800768df436", "taskName": null}
+{"asctime": "2024-11-23 20:01:46,286", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:46,287", "name": "request_processor", "levelname": "INFO", "message": "Widget b83437f5-8518-44b9-b94a-06949919f9a4 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:46,362", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:46,362", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 4e41bb4f-cd9f-4191-be92-6c535880e8d6", "taskName": null}
+{"asctime": "2024-11-23 20:01:46,672", "name": "widget_storage", "levelname": "INFO", "message": "Successfully deleted widget 90008fe6-afe7-4e9d-a64f-ad5d46f8c3b1 from DynamoDB.", "taskName": null}
+{"asctime": "2024-11-23 20:01:46,672", "name": "request_processor", "levelname": "INFO", "message": "Widget 90008fe6-afe7-4e9d-a64f-ad5d46f8c3b1 deleted successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:46,748", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:46,749", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 3f596626-25fd-43c1-8d1d-7c9b939cb4af", "taskName": null}
+{"asctime": "2024-11-23 20:01:47,057", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:47,057", "name": "request_processor", "levelname": "INFO", "message": "Widget 9087d1bc-d43e-40fa-96cd-4decdf01a827 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:47,131", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:47,216", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: c9d06da2-542f-43d6-83c0-4bb1cd758e4e", "taskName": null}
+{"asctime": "2024-11-23 20:01:47,479", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:47,479", "name": "request_processor", "levelname": "INFO", "message": "Widget b9758c64-c5f1-4fe2-ad50-6dbeeddfbb26 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:47,549", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:47,549", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 5f730b08-aedf-4325-ab35-dfaaf92225cc", "taskName": null}
+{"asctime": "2024-11-23 20:01:47,816", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:47,817", "name": "request_processor", "levelname": "INFO", "message": "Widget ced86192-6ace-4af1-8750-52c11d8d6d88 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:47,892", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:47,892", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 1d969bee-4cdd-4b8d-885a-05d5a2765a17", "taskName": null}
+{"asctime": "2024-11-23 20:01:48,190", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:48,191", "name": "request_processor", "levelname": "INFO", "message": "Widget 76e9b439-e97e-4f6e-8a94-13eb68fb9494 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:48,268", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:48,269", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: fe953e14-52af-475f-83a7-de1acfd46c18", "taskName": null}
+{"asctime": "2024-11-23 20:01:48,588", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:48,588", "name": "request_processor", "levelname": "INFO", "message": "Widget 18f60cdb-8d21-4763-8c1f-919f79f28838 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:48,656", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:48,657", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 01cced75-5320-485c-898d-abf8547f047a", "taskName": null}
+{"asctime": "2024-11-23 20:01:48,910", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:48,911", "name": "request_processor", "levelname": "INFO", "message": "Widget 52391fb1-f022-49ac-bd9c-705cbad5cba8 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:48,985", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:48,986", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: e339e16b-7fab-4507-9578-0a56ae610505", "taskName": null}
+{"asctime": "2024-11-23 20:01:49,303", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:49,303", "name": "request_processor", "levelname": "INFO", "message": "Widget fb2cd23d-5b32-415d-bc60-64e21aed1c79 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:49,380", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:49,380", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: a576df12-a411-4719-8e23-1adb15b4ac94", "taskName": null}
+{"asctime": "2024-11-23 20:01:49,692", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:49,692", "name": "request_processor", "levelname": "INFO", "message": "Widget 8da6f620-23ff-4f5a-a6f9-9a5a222a5090 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:49,768", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:49,769", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 0db6d7c1-2cc6-405e-9c2d-baad27c43915", "taskName": null}
+{"asctime": "2024-11-23 20:01:50,078", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:50,078", "name": "request_processor", "levelname": "INFO", "message": "Widget c511304a-aa3d-4560-8ba6-b61765684967 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:50,189", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:50,190", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: a3c090c8-eb50-4df1-a0c1-8ccd9575c1e4", "taskName": null}
+{"asctime": "2024-11-23 20:01:50,501", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:50,501", "name": "request_processor", "levelname": "INFO", "message": "Widget 118699dd-7595-4e3a-9c31-779be7fdafb1 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:50,578", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:50,579", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: ef37b88a-3595-4241-9f91-59748610a6ad", "taskName": null}
+{"asctime": "2024-11-23 20:01:50,861", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:50,862", "name": "request_processor", "levelname": "INFO", "message": "Widget b0640f94-db9d-4fdb-8610-b73a69fcebcc created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:50,938", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:51,040", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 8fdde1ab-c185-4702-b343-3e9487d44db3", "taskName": null}
+{"asctime": "2024-11-23 20:01:56,473", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:56,474", "name": "request_processor", "levelname": "INFO", "message": "Widget e17f1168-dea7-4e42-b68d-4c032dc3eeaa created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:56,546", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:56,547", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 3c0302cc-8f15-413c-8b55-859898bac9b2", "taskName": null}
+{"asctime": "2024-11-23 20:01:56,824", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:56,825", "name": "request_processor", "levelname": "INFO", "message": "Widget 9aa724bc-066d-43de-81f8-35bed020628f created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:56,900", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:56,900", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 0cbe27d7-bd15-4687-9b8e-8855eab81d78", "taskName": null}
+{"asctime": "2024-11-23 20:01:57,225", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:57,226", "name": "request_processor", "levelname": "INFO", "message": "Widget da460f15-84c1-40bb-b167-c8f0895f6181 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:57,306", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:57,307", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: f229ba9f-4ce8-49b4-b893-cee12011515a", "taskName": null}
+{"asctime": "2024-11-23 20:01:57,565", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:57,566", "name": "request_processor", "levelname": "INFO", "message": "Widget 11c8fea8-e222-4f1d-801a-8cdc998b6a06 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:57,640", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:57,640", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 656fc46a-fbad-4e80-83d4-a3cbb3c17c02", "taskName": null}
+{"asctime": "2024-11-23 20:01:58,006", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:58,080", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:58,081", "name": "request_processor", "levelname": "INFO", "message": "Widget 64123930-6e2b-4518-a37a-b2bee40754ed updated successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:58,155", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:58,235", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: c1125e32-7abf-4840-8cf5-a1821ecae759", "taskName": null}
+{"asctime": "2024-11-23 20:01:58,548", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:58,548", "name": "request_processor", "levelname": "INFO", "message": "Widget 25c29bd7-854c-4151-bd2b-cfc451a5e40b created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:58,623", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:58,624", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: cb5f038a-062f-406c-99d6-982a7e727a0f", "taskName": null}
+{"asctime": "2024-11-23 20:01:58,925", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:58,926", "name": "request_processor", "levelname": "INFO", "message": "Widget 4b2783e4-2e11-4842-bb94-304001118a34 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:59,001", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:59,002", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 6c8245a5-897e-47a3-91fa-6f23398609f0", "taskName": null}
+{"asctime": "2024-11-23 20:01:59,318", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:59,318", "name": "request_processor", "levelname": "INFO", "message": "Widget 609748c0-bc78-46e6-aaf9-e1e6eae10d56 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:59,394", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:59,395", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 98698f42-b45b-4fb4-be6b-e9786a84317f", "taskName": null}
+{"asctime": "2024-11-23 20:01:59,714", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:01:59,715", "name": "request_processor", "levelname": "INFO", "message": "Widget 6e2338b2-80a4-4c90-9c8f-92f3ee8bd5ee created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:01:59,791", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:01:59,791", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: e2db21a8-3cec-4cd7-8835-be607200d16b", "taskName": null}
+{"asctime": "2024-11-23 20:02:00,104", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:02:00,104", "name": "request_processor", "levelname": "INFO", "message": "Widget 1f666b46-aeb8-4ba6-8a87-3b4661cc3eec created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:02:00,181", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:02:00,181", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 0b57e2f3-ef02-4308-bd5e-534d846ea856", "taskName": null}
+{"asctime": "2024-11-23 20:02:00,503", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:02:00,503", "name": "request_processor", "levelname": "INFO", "message": "Widget 680d0bac-41a9-42fc-87cf-3c8c762a4530 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:02:00,578", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:02:00,579", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: a3f781c2-84ad-498a-9732-a3ab65488bbb", "taskName": null}
+{"asctime": "2024-11-23 20:02:00,862", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:02:00,863", "name": "request_processor", "levelname": "INFO", "message": "Widget ce0395e9-00b3-4681-a88e-b16131fc9e9e created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:02:00,940", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:02:00,941", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: ad46e759-24ab-45b6-a9a0-ef85245d3ac9", "taskName": null}
+{"asctime": "2024-11-23 20:02:01,245", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:02:01,246", "name": "request_processor", "levelname": "INFO", "message": "Widget 49a8a597-ef5f-4de2-b4a6-a6b608c0c48c created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:02:01,320", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:02:01,321", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: aa353aee-6e1e-4b99-af9f-1cd161f2f856", "taskName": null}
+{"asctime": "2024-11-23 20:02:01,646", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:02:01,646", "name": "request_processor", "levelname": "INFO", "message": "Widget a57978b2-f285-47f5-9c7c-44c3d1c25e80 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:02:01,718", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:02:01,719", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 7e0e7562-cf49-44f0-a3a2-ba53fc2e15ce", "taskName": null}
+{"asctime": "2024-11-23 20:02:02,041", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:02:02,041", "name": "request_processor", "levelname": "INFO", "message": "Widget ec4348b9-e731-4655-9636-5c5ab6589960 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:02:02,121", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:02:02,236", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 24d0e00a-b3a5-4b78-935a-a56454b80abf", "taskName": null}
+{"asctime": "2024-11-23 20:02:02,561", "name": "widget_storage", "levelname": "INFO", "message": "Successfully deleted widget 680d0bac-41a9-42fc-87cf-3c8c762a4530 from DynamoDB.", "taskName": null}
+{"asctime": "2024-11-23 20:02:02,562", "name": "request_processor", "levelname": "INFO", "message": "Widget 680d0bac-41a9-42fc-87cf-3c8c762a4530 deleted successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:02:02,639", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:02:02,640", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 83061656-8814-4a0c-85ef-b696d0021f2c", "taskName": null}
+{"asctime": "2024-11-23 20:02:02,918", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:02:02,919", "name": "request_processor", "levelname": "INFO", "message": "Widget 834dd2be-c4f6-455f-a4d1-23d1f3dc4301 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:02:02,992", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:02:03,493", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 128ee03f-18be-4f07-b7f7-1401272fccfd", "taskName": null}
+{"asctime": "2024-11-23 20:02:03,811", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:02:03,886", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:02:03,887", "name": "request_processor", "levelname": "INFO", "message": "Widget 18f60cdb-8d21-4763-8c1f-919f79f28838 updated successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:02:03,962", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:02:03,963", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 96a8fbbf-6ecc-4fe8-b4fd-a8dd608ea7a4", "taskName": null}
+{"asctime": "2024-11-23 20:02:04,273", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:02:04,347", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:02:04,347", "name": "request_processor", "levelname": "INFO", "message": "Widget 8b744451-02d6-4e08-aa1f-da2be39ff11b updated successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:02:04,423", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:02:34,124", "name": "__main__", "levelname": "INFO", "message": "Starting AWS Consumer Program", "taskName": null}
+{"asctime": "2024-11-23 20:02:34,135", "name": "botocore.credentials", "levelname": "INFO", "message": "Found credentials in shared credentials file: ~/.aws/credentials", "taskName": null}
+{"asctime": "2024-11-23 20:02:44,223", "name": "__main__", "levelname": "INFO", "message": "Starting AWS Consumer Program", "taskName": null}
+{"asctime": "2024-11-23 20:02:44,234", "name": "botocore.credentials", "levelname": "INFO", "message": "Found credentials in shared credentials file: ~/.aws/credentials", "taskName": null}
+{"asctime": "2024-11-23 20:03:08,023", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: bbcb8c50-abd1-4627-89b6-d19fa426da58", "taskName": null}
+{"asctime": "2024-11-23 20:03:08,265", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: bacc4588-abae-4bf0-9003-ce6a5aef1b84", "taskName": null}
+{"asctime": "2024-11-23 20:03:08,379", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:08,379", "name": "request_processor", "levelname": "INFO", "message": "Widget 78778921-a79b-428b-b3aa-6e9455075a91 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:08,449", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:08,594", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:08,594", "name": "request_processor", "levelname": "INFO", "message": "Widget ebcf0c15-36d7-45c1-99f4-4bd568017d8a created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:08,626", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 20562c7a-5b30-4c2c-8fcc-e2626402dca0", "taskName": null}
+{"asctime": "2024-11-23 20:03:08,668", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:08,803", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 32b5c9f1-1865-4efc-95c7-19fd8463b1e4", "taskName": null}
+{"asctime": "2024-11-23 20:03:08,915", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:08,916", "name": "request_processor", "levelname": "INFO", "message": "Widget 0815cc6a-9db0-4f01-8a2b-bf1951352e88 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:08,989", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:08,990", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: ef1459b9-d839-45c9-a5e4-aa164c43d01b", "taskName": null}
+{"asctime": "2024-11-23 20:03:09,103", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:09,103", "name": "request_processor", "levelname": "INFO", "message": "Widget 49469719-b31f-4c73-83c9-ba25afe7e35d created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:09,215", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:09,284", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:09,284", "name": "request_processor", "levelname": "INFO", "message": "Widget 78fd7f17-ebbd-4a68-968b-5e3af665c624 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:09,330", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 2f575057-0f5a-4c76-b0c3-1f85dade1efa", "taskName": null}
+{"asctime": "2024-11-23 20:03:09,358", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:09,461", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: b95da650-6aed-4eeb-9a26-f6eff13db18c", "taskName": null}
+{"asctime": "2024-11-23 20:03:09,621", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:09,621", "name": "request_processor", "levelname": "INFO", "message": "Widget fe710f5f-da87-4a0d-ae72-97312c2ecc06 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:09,688", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:09,723", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:09,723", "name": "request_processor", "levelname": "INFO", "message": "Widget f43afd06-f66b-4e8f-bedb-d07c5deab19c created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:09,792", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:09,793", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 911e20c4-de78-4430-b447-80d8af575c8e", "taskName": null}
+{"asctime": "2024-11-23 20:03:09,795", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 0aa3c2b0-50e4-46ca-8746-14f0bca62a24", "taskName": null}
+{"asctime": "2024-11-23 20:03:10,094", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:10,094", "name": "request_processor", "levelname": "INFO", "message": "Widget 87a1e33b-f8dc-4fbc-add8-8af3a83e2d13 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:10,104", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:10,104", "name": "request_processor", "levelname": "INFO", "message": "Widget 2dd0a6b8-33c7-440c-9fbb-17e7b44b964b created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:10,160", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:10,172", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:10,250", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: e38a431d-b7d6-4d98-80f3-004f3ef35f0d", "taskName": null}
+{"asctime": "2024-11-23 20:03:10,274", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: dfec08e8-69ce-4398-865b-46240557a10c", "taskName": null}
+{"asctime": "2024-11-23 20:03:10,504", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:10,505", "name": "request_processor", "levelname": "INFO", "message": "Widget b0415bff-c31f-4bb2-9279-bd038b1b001e created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:10,546", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:10,546", "name": "request_processor", "levelname": "INFO", "message": "Widget 2981648c-251b-4d8f-8e9a-59ec893a32b2 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:10,571", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:10,617", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:10,671", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 1720658b-c868-4ca0-9943-488356fce71d", "taskName": null}
+{"asctime": "2024-11-23 20:03:10,715", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 2aef422d-05d1-4a76-8834-1031824a2ca7", "taskName": null}
+{"asctime": "2024-11-23 20:03:10,960", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:10,961", "name": "request_processor", "levelname": "INFO", "message": "Widget 16a35b41-e0d2-43e8-9cf3-2a884e812f15 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:10,983", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:10,984", "name": "request_processor", "levelname": "INFO", "message": "Widget e9d0cf3b-a385-4a61-aede-e15fddcfcd8f created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:11,034", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:11,036", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: de2e7d8b-e2a9-4f13-b768-5bb1fd8df48b", "taskName": null}
+{"asctime": "2024-11-23 20:03:11,060", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:11,164", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: c39a45fd-3652-4e8e-854b-f78e00005997", "taskName": null}
+{"asctime": "2024-11-23 20:03:11,314", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:11,315", "name": "request_processor", "levelname": "INFO", "message": "Widget 7cf3ae3a-2331-466f-a1dd-165e885e5b0b created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:11,380", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:11,457", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:11,457", "name": "request_processor", "levelname": "INFO", "message": "Widget 0fe3a96b-e298-4c6a-8da0-f3b794ca52ed created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:11,481", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 78a90203-3e4d-4b00-acbb-aac5c15d10d6", "taskName": null}
+{"asctime": "2024-11-23 20:03:11,531", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:11,628", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 2e73ba39-dd23-4150-9aff-d1d10e2bdf85", "taskName": null}
+{"asctime": "2024-11-23 20:03:11,789", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:11,789", "name": "request_processor", "levelname": "INFO", "message": "Widget e72fd6f1-21a8-4479-b4c4-04b7dc252267 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:11,856", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:11,856", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 323d7550-68a7-468d-aeae-ec0f6410fc28", "taskName": null}
+{"asctime": "2024-11-23 20:03:11,903", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:11,903", "name": "request_processor", "levelname": "INFO", "message": "Widget 8ed49205-c24b-4334-b301-fda939fbf462 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:11,972", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:11,973", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 3944ae55-2650-4a59-a5b5-fe156f88497e", "taskName": null}
+{"asctime": "2024-11-23 20:03:12,153", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:12,153", "name": "request_processor", "levelname": "INFO", "message": "Widget 176f0d0b-24c5-4bd0-8752-d451c317d78b created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:12,222", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:12,246", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:12,247", "name": "request_processor", "levelname": "INFO", "message": "Widget d6f18604-3257-4836-a928-3169d748cf15 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:12,331", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 945889d7-2cc9-4bbe-ab39-dfc301781742", "taskName": null}
+{"asctime": "2024-11-23 20:03:12,348", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:12,349", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: c60712f7-650b-4554-943c-5dacf29253f9", "taskName": null}
+{"asctime": "2024-11-23 20:03:12,649", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:12,649", "name": "request_processor", "levelname": "INFO", "message": "Widget 16b9654c-a757-46d7-b0ae-a9c94d64768f created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:12,653", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:12,653", "name": "request_processor", "levelname": "INFO", "message": "Widget 48546750-55df-4228-bf1b-affbe14c1a78 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:12,722", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:12,723", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 7afbd6ac-dba5-42e3-8467-9209f972482b", "taskName": null}
+{"asctime": "2024-11-23 20:03:12,733", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:12,830", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 2a248cc3-e9f8-4c93-8e52-374bd353efa5", "taskName": null}
+{"asctime": "2024-11-23 20:03:13,039", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:13,039", "name": "request_processor", "levelname": "INFO", "message": "Widget 0fc8438e-20c2-46ba-8cc9-afc538d93afd created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:13,106", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:13,106", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 8ecef309-86f7-4a27-9a66-d23490a627b8", "taskName": null}
+{"asctime": "2024-11-23 20:03:13,147", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:13,147", "name": "request_processor", "levelname": "INFO", "message": "Widget aa6e889d-58d0-49b4-929d-f41e06b53760 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:13,215", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:13,216", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 52bb5156-e38d-4d1c-a072-bc018bfc2fcd", "taskName": null}
+{"asctime": "2024-11-23 20:03:13,409", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:13,409", "name": "request_processor", "levelname": "INFO", "message": "Widget 2354493c-a82a-4f4e-a75c-22955ae68aad created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:13,475", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:13,492", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:13,492", "name": "request_processor", "levelname": "INFO", "message": "Widget 399010e2-bad8-42ee-8a4c-9c1450aea1e7 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:13,567", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:13,570", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: f5dcd2ab-7c91-4ab2-893c-e2f803a2400d", "taskName": null}
+{"asctime": "2024-11-23 20:03:13,680", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 94c2b332-d27b-4397-8b26-22ff3e304c41", "taskName": null}
+{"asctime": "2024-11-23 20:03:13,888", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:13,888", "name": "request_processor", "levelname": "INFO", "message": "Widget 9f58deea-73b7-48b8-88a6-c3de1a7a5cb7 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:13,956", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:13,973", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:13,974", "name": "request_processor", "levelname": "INFO", "message": "Widget 5f581ba5-d3dc-4a6a-bf8b-aa20d87c249e created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:14,054", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:14,054", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 5cbe5206-d548-4f3e-b4d6-32f7d4ae287a", "taskName": null}
+{"asctime": "2024-11-23 20:03:14,055", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: ac40b042-5b3c-4c4b-a37e-5c58627305b6", "taskName": null}
+{"asctime": "2024-11-23 20:03:14,354", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:14,355", "name": "request_processor", "levelname": "INFO", "message": "Widget f6aa5772-4c2b-4d7b-a34d-3f892a188293 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:14,360", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:14,360", "name": "request_processor", "levelname": "INFO", "message": "Widget 0ffd271a-3e79-49db-b2d7-1d57488ea274 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:14,429", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:14,436", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:14,436", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 3eb91737-d2c6-48b5-98b0-d6a7b8bc3c93", "taskName": null}
+{"asctime": "2024-11-23 20:03:14,531", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: d8fde3bd-d6b4-4985-aa89-19bf93158484", "taskName": null}
+{"asctime": "2024-11-23 20:03:14,743", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:14,743", "name": "request_processor", "levelname": "INFO", "message": "Widget 13b26178-9512-4385-b144-3dcd6941beb9 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:14,806", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:14,807", "name": "request_processor", "levelname": "INFO", "message": "Widget 4a0762ca-99eb-4d6e-a2fd-83fd75cc4df9 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:14,817", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:14,883", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:14,884", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: f00fd5f3-bfce-4aa2-915c-3ddc916e1cbe", "taskName": null}
+{"asctime": "2024-11-23 20:03:14,915", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: e8b5614a-d0e5-4a28-9778-55b877ffc787", "taskName": null}
+{"asctime": "2024-11-23 20:03:15,185", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:15,186", "name": "request_processor", "levelname": "INFO", "message": "Widget 438b4e86-ba52-4f01-9f41-64045574c45f created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:15,205", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:15,205", "name": "request_processor", "levelname": "INFO", "message": "Widget d5c3090c-8f35-419e-a890-28af10ae1de0 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:15,258", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:15,281", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:15,352", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 5a1395f1-5975-4d42-81bb-6ab58eebea5b", "taskName": null}
+{"asctime": "2024-11-23 20:03:15,384", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 7fcaadd8-43b9-4f88-8ef7-002772b07eae", "taskName": null}
+{"asctime": "2024-11-23 20:03:15,674", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:15,674", "name": "request_processor", "levelname": "INFO", "message": "Widget c42f3387-3be1-40e3-980d-9a5227eaa7f0 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:15,684", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:15,685", "name": "request_processor", "levelname": "INFO", "message": "Widget 49d21f4a-a78f-48af-92be-74f99222e5ff created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:15,751", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:15,751", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 4c7f7d11-ff7c-44cf-9a63-0bafaf4a800c", "taskName": null}
+{"asctime": "2024-11-23 20:03:15,758", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:15,858", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 374f428a-e579-4c03-b84a-bb32b2da9c06", "taskName": null}
+{"asctime": "2024-11-23 20:03:16,057", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:16,057", "name": "request_processor", "levelname": "INFO", "message": "Widget 8e50fcdb-aac3-490e-b529-515d10a7086e created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:16,124", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:16,144", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:16,144", "name": "request_processor", "levelname": "INFO", "message": "Widget 737f9560-5d81-4a9b-a4ca-8ecea03423db created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:16,218", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 4ce9273b-5c04-489a-badf-16f195f3ae93", "taskName": null}
+{"asctime": "2024-11-23 20:03:16,221", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:16,321", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: bbe7a99c-0d8d-405f-bcfe-75dc78e0e99e", "taskName": null}
+{"asctime": "2024-11-23 20:03:16,530", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:16,530", "name": "request_processor", "levelname": "INFO", "message": "Widget 06da9007-df82-4c47-b113-3784a0b5d5b4 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:16,598", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:16,623", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:16,624", "name": "request_processor", "levelname": "INFO", "message": "Widget 553ff488-a47f-43ae-ae08-4d9a59af0184 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:16,694", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 1b0fa1c1-ff4a-49d3-a318-0c7604b9c2e3", "taskName": null}
+{"asctime": "2024-11-23 20:03:16,695", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:16,794", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 1fbfcfcb-58ef-43af-abb7-81ece0ffe067", "taskName": null}
+{"asctime": "2024-11-23 20:03:16,999", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:17,000", "name": "request_processor", "levelname": "INFO", "message": "Widget c9476e75-5f95-400d-83fa-a5b08e58e1b2 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:17,070", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:17,071", "name": "request_processor", "levelname": "INFO", "message": "Widget 9fa368bc-f019-467b-9e2c-d3ed3b6073e8 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:17,077", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:17,078", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: ac4f2bf6-c1a4-40f2-b614-1b47cda72615", "taskName": null}
+{"asctime": "2024-11-23 20:03:17,144", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:17,261", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: d3a7baef-2c90-4fc1-8467-3d470bb1b000", "taskName": null}
+{"asctime": "2024-11-23 20:03:17,465", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:17,466", "name": "request_processor", "levelname": "INFO", "message": "Widget d1b5bce6-0ef0-4d04-9680-1f9e9bdb8aed created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:17,520", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:17,521", "name": "request_processor", "levelname": "INFO", "message": "Widget 7e0748dc-0fc1-4336-b542-4a972bb8e98e created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:17,542", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:17,543", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 6af37dcc-0553-4cb9-9761-7fd3292309ea", "taskName": null}
+{"asctime": "2024-11-23 20:03:17,598", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:17,695", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 8b506e45-8300-44f5-adaa-6a3a281d1f13", "taskName": null}
+{"asctime": "2024-11-23 20:03:17,855", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:17,926", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:17,926", "name": "request_processor", "levelname": "INFO", "message": "Widget 76edb919-a385-44ac-bfc8-e0f41656a0b4 updated successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:17,977", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:17,978", "name": "request_processor", "levelname": "INFO", "message": "Widget 7b626a52-7871-4d11-9665-ec90e7ff901d created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:18,006", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:18,057", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:18,057", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 617050aa-76b9-40a3-a78f-f7d92d94696c", "taskName": null}
+{"asctime": "2024-11-23 20:03:18,102", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 01124e44-9c45-4004-baae-70605fb323dd", "taskName": null}
+{"asctime": "2024-11-23 20:03:18,344", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:18,345", "name": "request_processor", "levelname": "INFO", "message": "Widget abf73138-cae9-45c7-8f0f-d253716b1168 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:18,380", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:18,420", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:18,420", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: baecae94-10a7-44e8-a125-15360d1737da", "taskName": null}
+{"asctime": "2024-11-23 20:03:18,455", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:18,455", "name": "request_processor", "levelname": "INFO", "message": "Widget 176f0d0b-24c5-4bd0-8752-d451c317d78b updated successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:18,523", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:18,524", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 101babc6-3070-4a8c-ac4b-3d33744297d1", "taskName": null}
+{"asctime": "2024-11-23 20:03:18,822", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:18,823", "name": "request_processor", "levelname": "INFO", "message": "Widget 0415ab3e-8cab-415c-b1ff-4b6201210a11 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:18,852", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:18,852", "name": "request_processor", "levelname": "INFO", "message": "Widget a3dfe70e-140d-43f8-8000-d50f6495facf created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:18,898", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:18,899", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: f9da7073-9107-40ab-9657-934bf4739ee0", "taskName": null}
+{"asctime": "2024-11-23 20:03:18,927", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:18,927", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 73d1666e-9f84-45c3-9b3c-9cc9eb87c714", "taskName": null}
+{"asctime": "2024-11-23 20:03:19,217", "name": "widget_storage", "levelname": "INFO", "message": "Successfully deleted widget 2981648c-251b-4d8f-8e9a-59ec893a32b2 from DynamoDB.", "taskName": null}
+{"asctime": "2024-11-23 20:03:19,218", "name": "request_processor", "levelname": "INFO", "message": "Widget 2981648c-251b-4d8f-8e9a-59ec893a32b2 deleted successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:19,221", "name": "widget_storage", "levelname": "INFO", "message": "Successfully deleted widget 13b26178-9512-4385-b144-3dcd6941beb9 from DynamoDB.", "taskName": null}
+{"asctime": "2024-11-23 20:03:19,222", "name": "request_processor", "levelname": "INFO", "message": "Widget 13b26178-9512-4385-b144-3dcd6941beb9 deleted successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:19,293", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:19,294", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 4f90a3b2-8269-488d-8074-8c977e6d5702", "taskName": null}
+{"asctime": "2024-11-23 20:03:19,298", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:19,298", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: ac9dfa38-20ca-4843-bd4b-2ba4c05ae71a", "taskName": null}
+{"asctime": "2024-11-23 20:03:19,603", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:19,604", "name": "request_processor", "levelname": "INFO", "message": "Widget 18206cd7-11f9-4658-901c-cebd906fc4ab created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:19,609", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:19,610", "name": "request_processor", "levelname": "INFO", "message": "Widget ca9f75e8-c758-43f7-a2bd-f68429a73d5b created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:19,679", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:19,688", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:19,789", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 66f0bd11-b0d0-449e-ba71-1156e6c07562", "taskName": null}
+{"asctime": "2024-11-23 20:03:19,789", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: fef3735c-e22a-4f82-a3ff-00fce363f260", "taskName": null}
+{"asctime": "2024-11-23 20:03:20,096", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:20,097", "name": "request_processor", "levelname": "INFO", "message": "Widget 1b8d7922-5dd7-4e8e-a2ca-b2161d46eb98 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:20,112", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:20,165", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:20,165", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 1c44dc48-96ee-4e1a-8a27-be59b0d50870", "taskName": null}
+{"asctime": "2024-11-23 20:03:20,183", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:20,183", "name": "request_processor", "levelname": "INFO", "message": "Widget a3dfe70e-140d-43f8-8000-d50f6495facf updated successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:20,252", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:20,252", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 43d6b81c-5a4d-49ba-bab3-aa8bccbb736a", "taskName": null}
+{"asctime": "2024-11-23 20:03:20,445", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:20,520", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:20,521", "name": "request_processor", "levelname": "INFO", "message": "Widget 0fc8438e-20c2-46ba-8cc9-afc538d93afd updated successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:20,526", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:20,527", "name": "request_processor", "levelname": "INFO", "message": "Widget 529297a1-bab6-45e4-9367-0dce9138b144 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:20,596", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:20,598", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:20,598", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 91b130e8-2f5e-4b8f-920a-203b2388ee22", "taskName": null}
+{"asctime": "2024-11-23 20:03:20,689", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: c1e68dd3-6c77-49b0-a6cc-5646224eefd8", "taskName": null}
+{"asctime": "2024-11-23 20:03:20,889", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:20,890", "name": "request_processor", "levelname": "INFO", "message": "Widget 20028d6a-12a4-4dd1-ac74-ea16858218d3 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:20,963", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:20,992", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:21,061", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 0571eff4-4acc-4e42-8943-a7d400d7401e", "taskName": null}
+{"asctime": "2024-11-23 20:03:21,068", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:21,069", "name": "request_processor", "levelname": "INFO", "message": "Widget c9476e75-5f95-400d-83fa-a5b08e58e1b2 updated successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:21,143", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:21,143", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: f6d79354-8c4c-42f8-a86b-9c4626b1abc8", "taskName": null}
+{"asctime": "2024-11-23 20:03:21,398", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:21,399", "name": "request_processor", "levelname": "INFO", "message": "Widget 59bc2544-350d-41be-b564-1562eb3bc346 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:21,423", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:21,424", "name": "request_processor", "levelname": "INFO", "message": "Widget 76edb919-a385-44ac-bfc8-e0f41656a0b4 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:21,475", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:21,475", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 8308b050-64b0-4192-81a9-7ed3417ed2a9", "taskName": null}
+{"asctime": "2024-11-23 20:03:21,506", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:21,507", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 543718d8-1d83-4ea7-975f-923629a79574", "taskName": null}
+{"asctime": "2024-11-23 20:03:21,766", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:21,768", "name": "request_processor", "levelname": "INFO", "message": "Widget a2b350c9-9ba0-448c-82e4-1d0a521b9963 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:21,793", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:21,794", "name": "request_processor", "levelname": "INFO", "message": "Widget 9429d2cd-3386-4fc6-91a3-0c4e9a3eb9c7 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:21,844", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:21,844", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 0e5e2c9c-f161-4581-a5a1-69d1cc559696", "taskName": null}
+{"asctime": "2024-11-23 20:03:21,870", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:21,870", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: ed8a8eda-bdc0-4e99-9d30-74ee73db4b3a", "taskName": null}
+{"asctime": "2024-11-23 20:03:22,159", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:22,160", "name": "request_processor", "levelname": "INFO", "message": "Widget 625699d8-5886-4eb4-8f0f-1ff9ed58dfde created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:22,160", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:22,234", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:22,234", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 6b5ce7e6-0241-407f-9a21-c2a2015f0f12", "taskName": null}
+{"asctime": "2024-11-23 20:03:22,235", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:22,236", "name": "request_processor", "levelname": "INFO", "message": "Widget 0ffd271a-3e79-49db-b2d7-1d57488ea274 updated successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:22,304", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:22,400", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: e9f1ac35-2dc2-4dda-b902-9c4adc4739b3", "taskName": null}
+{"asctime": "2024-11-23 20:03:22,532", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:22,533", "name": "request_processor", "levelname": "INFO", "message": "Widget caea4ef4-8f5f-49dd-b3e4-bdf4a85ec794 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:22,599", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:22,691", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: f5b8c53c-a50e-48eb-8749-17d9afd8d414", "taskName": null}
+{"asctime": "2024-11-23 20:03:22,705", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:22,705", "name": "request_processor", "levelname": "INFO", "message": "Widget f5945022-1fa2-4cb4-a3b2-27ecc15e3a43 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:22,779", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:22,780", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: d06296de-02a8-4730-9896-3b4407bfadf4", "taskName": null}
+{"asctime": "2024-11-23 20:03:23,025", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:23,025", "name": "request_processor", "levelname": "INFO", "message": "Widget 779ffae7-30a2-4129-9c1d-ccf46726edd1 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:23,078", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:23,100", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:23,102", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 128744ee-2a9c-4d7e-8fd9-e461e494fb5e", "taskName": null}
+{"asctime": "2024-11-23 20:03:23,155", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:23,155", "name": "request_processor", "levelname": "INFO", "message": "Widget 59bc2544-350d-41be-b564-1562eb3bc346 updated successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:23,230", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:23,230", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 384c44e4-0e60-4011-81b7-c1794910604f", "taskName": null}
+{"asctime": "2024-11-23 20:03:23,411", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:23,411", "name": "request_processor", "levelname": "INFO", "message": "Widget f397ab5a-345c-41dc-8bba-fda6b3eb84e1 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:23,480", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:23,481", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 67a3e005-6ea2-4307-b351-dbe38ac85b65", "taskName": null}
+{"asctime": "2024-11-23 20:03:23,507", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:23,585", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:23,586", "name": "request_processor", "levelname": "INFO", "message": "Widget d1b5bce6-0ef0-4d04-9680-1f9e9bdb8aed updated successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:23,658", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:23,753", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 4ef6a87c-ec54-4a26-baba-f8dcf71aa18d", "taskName": null}
+{"asctime": "2024-11-23 20:03:23,782", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:23,860", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:23,861", "name": "request_processor", "levelname": "INFO", "message": "Widget 0fc8438e-20c2-46ba-8cc9-afc538d93afd updated successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:23,933", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:23,934", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 2deccce8-1d88-486c-b0fe-6a1b5def486f", "taskName": null}
+{"asctime": "2024-11-23 20:03:24,118", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:24,193", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:24,194", "name": "request_processor", "levelname": "INFO", "message": "Widget c9476e75-5f95-400d-83fa-a5b08e58e1b2 updated successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:24,201", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:24,270", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:24,275", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:24,276", "name": "request_processor", "levelname": "INFO", "message": "Widget 78778921-a79b-428b-b3aa-6e9455075a91 updated successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:24,345", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:24,346", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 0a390ff6-16c2-42b8-ae81-8311cf9d8f68", "taskName": null}
+{"asctime": "2024-11-23 20:03:24,365", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: c26e073c-8ed5-40e8-8a4f-25a09bf3ad65", "taskName": null}
+{"asctime": "2024-11-23 20:03:24,657", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:24,657", "name": "request_processor", "levelname": "INFO", "message": "Widget e709e070-dce2-45af-b80c-e2b8a3e2188c created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:24,661", "name": "widget_storage", "levelname": "INFO", "message": "Successfully deleted widget 399010e2-bad8-42ee-8a4c-9c1450aea1e7 from DynamoDB.", "taskName": null}
+{"asctime": "2024-11-23 20:03:24,661", "name": "request_processor", "levelname": "INFO", "message": "Widget 399010e2-bad8-42ee-8a4c-9c1450aea1e7 deleted successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:24,723", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:24,731", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:24,731", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: c195cb0b-9f17-45b5-a9ff-5241d721972c", "taskName": null}
+{"asctime": "2024-11-23 20:03:24,815", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 17822b65-877c-4a23-a17a-b0841d69c2d1", "taskName": null}
+{"asctime": "2024-11-23 20:03:25,062", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:25,079", "name": "widget_storage", "levelname": "INFO", "message": "Successfully deleted widget a2b350c9-9ba0-448c-82e4-1d0a521b9963 from DynamoDB.", "taskName": null}
+{"asctime": "2024-11-23 20:03:25,080", "name": "request_processor", "levelname": "INFO", "message": "Widget a2b350c9-9ba0-448c-82e4-1d0a521b9963 deleted successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:25,139", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:25,139", "name": "request_processor", "levelname": "INFO", "message": "Widget f5945022-1fa2-4cb4-a3b2-27ecc15e3a43 updated successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:25,153", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:25,154", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: ca7d68bf-d331-4c90-97a7-01390e680854", "taskName": null}
+{"asctime": "2024-11-23 20:03:25,210", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:25,210", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: e844b949-d655-415f-abb2-d310f358a47f", "taskName": null}
+{"asctime": "2024-11-23 20:03:25,444", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:25,471", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:25,472", "name": "request_processor", "levelname": "INFO", "message": "Widget 3e7cbee1-dc5b-450e-8d4e-8c8e7b81f32b created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:25,524", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:25,525", "name": "request_processor", "levelname": "INFO", "message": "Widget 5f581ba5-d3dc-4a6a-bf8b-aa20d87c249e updated successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:25,547", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:25,547", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 2a108b25-f84e-4966-a1d3-4c0ec8fb099d", "taskName": null}
+{"asctime": "2024-11-23 20:03:25,601", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:25,601", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 94f893b2-026b-4667-ba16-d7ea9ec7958c", "taskName": null}
+{"asctime": "2024-11-23 20:03:25,834", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:25,834", "name": "request_processor", "levelname": "INFO", "message": "Widget 4a3473cd-fe52-4602-b720-867c0a7aeddf created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:25,870", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:25,907", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:25,945", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:25,946", "name": "request_processor", "levelname": "INFO", "message": "Widget b0415bff-c31f-4bb2-9279-bd038b1b001e updated successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:26,003", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 85de7d7e-c2bb-486d-9726-3156088c4e57", "taskName": null}
+{"asctime": "2024-11-23 20:03:26,019", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:26,020", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: b4b4fea4-f11a-4d40-bd7b-4b4b12afb9db", "taskName": null}
+{"asctime": "2024-11-23 20:03:26,309", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:26,310", "name": "request_processor", "levelname": "INFO", "message": "Widget 018e77b4-1e01-4f23-806c-f5ce2e1d31a7 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:26,317", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:26,318", "name": "request_processor", "levelname": "INFO", "message": "Widget 6fc18fc3-ec40-4e67-85f5-cd9789707a31 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:26,382", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:26,396", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:26,481", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 886d5c74-b6ca-4882-965d-6c109496bbb7", "taskName": null}
+{"asctime": "2024-11-23 20:03:26,492", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: dc234add-9298-4471-a720-1371e23bfd69", "taskName": null}
+{"asctime": "2024-11-23 20:03:26,785", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:26,785", "name": "request_processor", "levelname": "INFO", "message": "Widget 95193437-3947-43e6-8a40-2c0ba97daaf9 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:26,793", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:26,862", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:26,863", "name": "request_processor", "levelname": "INFO", "message": "Widget 176f0d0b-24c5-4bd0-8752-d451c317d78b updated successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:26,935", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:27,029", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: ef713898-ec90-4220-a284-152cd20ba604", "taskName": null}
+{"asctime": "2024-11-23 20:03:27,201", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:27,201", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 7beaf4ac-a3b2-4beb-a70f-402b90e570e3", "taskName": null}
+{"asctime": "2024-11-23 20:03:27,316", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:27,317", "name": "request_processor", "levelname": "INFO", "message": "Widget 13d1663f-c6ad-43ab-9c09-e41f04ca748c created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:27,384", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:27,384", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 470706f8-0270-403f-b7a0-07cce57035a0", "taskName": null}
+{"asctime": "2024-11-23 20:03:27,498", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:27,498", "name": "request_processor", "levelname": "INFO", "message": "Widget 201d8a64-5f0f-4faf-9aab-b933c7880d92 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:27,569", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:27,569", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 07c282fd-8c11-4170-ba2b-f1ef7f13002a", "taskName": null}
+{"asctime": "2024-11-23 20:03:27,656", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:27,657", "name": "request_processor", "levelname": "INFO", "message": "Widget 66644796-f6db-44d1-8875-957edc7ec341 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:27,731", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:27,731", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 9f8d3034-5eed-481e-8df8-412950593d0c", "taskName": null}
+{"asctime": "2024-11-23 20:03:27,868", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:27,868", "name": "request_processor", "levelname": "INFO", "message": "Widget 754fd6fe-c132-4650-a8fe-0f80564533c8 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:27,945", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:27,945", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: ecc0468a-f539-4ba2-ba7d-90b304463388", "taskName": null}
+{"asctime": "2024-11-23 20:03:28,035", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:28,035", "name": "request_processor", "levelname": "INFO", "message": "Widget dcd58f82-282d-4578-bfcf-3460cd946a55 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:28,108", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:28,109", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 34b1dfb3-d88b-41ac-9805-d83f8ad3c679", "taskName": null}
+{"asctime": "2024-11-23 20:03:28,241", "name": "widget_storage", "levelname": "INFO", "message": "Successfully deleted widget 201d8a64-5f0f-4faf-9aab-b933c7880d92 from DynamoDB.", "taskName": null}
+{"asctime": "2024-11-23 20:03:28,241", "name": "request_processor", "levelname": "INFO", "message": "Widget 201d8a64-5f0f-4faf-9aab-b933c7880d92 deleted successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:28,311", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:28,405", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: bae226b1-bab2-43a5-baec-804680cce5e1", "taskName": null}
+{"asctime": "2024-11-23 20:03:28,407", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:28,408", "name": "request_processor", "levelname": "INFO", "message": "Widget 389b2f87-2749-4fde-8665-e32d5d3f14a8 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:28,485", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:28,603", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 90465163-dfb1-4ac5-832f-d86dad8db731", "taskName": null}
+{"asctime": "2024-11-23 20:03:28,696", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:28,769", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:28,769", "name": "request_processor", "levelname": "INFO", "message": "Widget 0415ab3e-8cab-415c-b1ff-4b6201210a11 updated successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:28,839", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:28,840", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: bdb247cd-7454-4bd2-8655-922ebed081d7", "taskName": null}
+{"asctime": "2024-11-23 20:03:28,906", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:28,984", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:28,985", "name": "request_processor", "levelname": "INFO", "message": "Widget 438b4e86-ba52-4f01-9f41-64045574c45f updated successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:29,185", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:29,186", "name": "request_processor", "levelname": "INFO", "message": "Widget ca216776-3e28-4c44-8a89-550f78e5f9d3 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:29,262", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:29,262", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 91b22b19-ee27-4989-90cc-46743e8cfe5a", "taskName": null}
+{"asctime": "2024-11-23 20:03:29,319", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:29,319", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: b6b056b4-1b52-47b0-a9e7-9a7ac2f39fca", "taskName": null}
+{"asctime": "2024-11-23 20:03:29,565", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:29,565", "name": "request_processor", "levelname": "INFO", "message": "Widget 19ecf56f-76c7-4863-b0cb-01d76a10270e created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:29,589", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:29,644", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:29,665", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:29,665", "name": "request_processor", "levelname": "INFO", "message": "Widget 176f0d0b-24c5-4bd0-8752-d451c317d78b updated successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:29,745", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:29,746", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: 25dcd150-3e13-4963-9390-fc4065d49c59", "taskName": null}
+{"asctime": "2024-11-23 20:03:30,068", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:30,069", "name": "request_processor", "levelname": "INFO", "message": "Widget 4d01e982-8834-4257-9eef-89566e39256b created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:30,149", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
+{"asctime": "2024-11-23 20:03:30,150", "name": "__main__", "levelname": "INFO", "message": "Processing request from SQS: bf6c9558-ad91-4957-b393-a8f6326968ae", "taskName": null}
+{"asctime": "2024-11-23 20:03:30,474", "name": "widget_storage", "levelname": "INFO", "message": "Widget stored in DynamoDB table: widgets", "taskName": null}
+{"asctime": "2024-11-23 20:03:30,475", "name": "request_processor", "levelname": "INFO", "message": "Widget b5a0d113-730a-455d-b040-00b562490438 created successfully.", "taskName": null}
+{"asctime": "2024-11-23 20:03:30,554", "name": "sqs_client", "levelname": "INFO", "message": "Successfully deleted message from SQS", "taskName": null}
