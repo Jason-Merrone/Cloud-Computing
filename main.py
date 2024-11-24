@@ -10,8 +10,7 @@ def parse_arguments():
     parser = ArgumentParser(description='AWS Consumer Program')
     parser.add_argument('--storage', choices=['s3', 'dynamodb'], required=True, help='Storage strategy')
     parser.add_argument('--resource', required=True, help='Resource identifier (bucket or table name)')
-    parser.add_argument('--request-bucket', help='Bucket containing widget requests')
-    parser.add_argument('--queue-name', help='SQS queue name for widget requests')
+    parser.add_argument('--request-bucket', required=True, help='Bucket containing widget requests')
     return parser.parse_args()
 
 
